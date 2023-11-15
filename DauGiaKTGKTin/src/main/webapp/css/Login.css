@@ -1,0 +1,29 @@
+@charset "UTF-8";
+.container {
+		width: 350px;
+		margin: 0 auto;
+		border: 1px solid black;
+		text-align: center;
+		
+	}
+	h3 {
+		margin: 0;
+		font-weight: 700;
+		font-size: 20px;
+	}
+	.box1 {
+		border-bottom: 1px solid black;
+		background-color: aqua;
+	}
+	.box2 {
+		margin: 0 auto 16px ;
+		    width: fit-content;
+		
+	}
+input{
+	border-color: lightskyblue;
+}
+.pass{
+	margin-left: 32px;
+}
+
