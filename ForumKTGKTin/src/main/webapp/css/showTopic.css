@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+.title{
+	font-weight: 600;
+	font-size: large;
+	margin: 4px 0
+}
+.table{
+	margin-top: 20px;
+	border: 1px solid black;
+}
+.time{
+	background-color: rgb(206,207,207);
+}
+.group{
+	display: flex;
+}
+.user{
+	background-color: rgb(231,255,231);
+	text-align: center;
+	width: 20%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.user p{
+	margin:0
+}
+.content{
+	width: 80%;
+}
+.content-title{
+	display: flex;
+	justify-content: space-between;
+	background-color: rgb(206,255,255);
+}
+.content-detail{
+	
+}
+.list{
+	text-align: right;
+}
